@@ -96,6 +96,10 @@ Once you connected to the Wifi, you can check the local IP in the serial termina
   </tr>
 </table>
 <br />
+<br />
+Great, now you have a WiFi caliper, exactly what you need in this life :)
+<br />
+<br />
 <h2>Working Libraries used</h2>
 <br />
 WiFi at version 3.0.4<br />
