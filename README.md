@@ -41,6 +41,14 @@ This repository is based on the original <a href="https://github.com/MGX3D/EspDR
   </tr>
 </table>
 <br />
+<br />
+<h2>Important!</h2>
+If you do not see the pads, open the case. It may need to cut the case to make room for the wires or the connector.
+<br />
+<br />
+<img src="https://raw.githubusercontent.com/sorinbotirla/esp32-digital-caliper/refs/heads/main/images/20250730_095303.jpg" />
+<br />
+<br />
 You can solder thin wires on these pads or you can solder a 4 pin connector as I did.<br /><br />
 <table>
   <tr>
@@ -58,17 +66,6 @@ You can solder thin wires on these pads or you can solder a 4 pin connector as I
 In the .ino file change the <strong>YOUR_WIFI_SSID</strong> and <strong>YOUR_WIFI_PASSWORD</strong> to your desired WIFI credentials.<br />
 The <strong>client_mode</strong> can be either 0 or 1. 
 <br />
-<h2>Working Libraries used</h2>
-<br />
-WiFi at version 3.0.4<br />
-Networking at version 3.0.4<br />
-EEPROM at version 3.0.4<br />
-WebServer at version 3.0.4<br />
-FS at version 3.0.4<br />
-ESPmDNS at version 3.0.4<br />
-<br />
-WebSockets at version 2.6.1
-NetworkClientSecure at version 3.0.4
 <br />
 0 is for AP mode (ESP32 will start a WIFI hotspot), 
 <br />
@@ -86,5 +83,15 @@ Once you connected to the Wifi, you can check the local IP in the serial termina
     </td>
   </tr>
 </table>
-
+<br />
+<h2>Working Libraries used</h2>
+<br />
+WiFi at version 3.0.4<br />
+Networking at version 3.0.4<br />
+EEPROM at version 3.0.4<br />
+WebServer at version 3.0.4<br />
+FS at version 3.0.4<br />
+ESPmDNS at version 3.0.4<br />
+WebSockets at version 2.6.1<br />
+NetworkClientSecure at version 3.0.4<br />
 
