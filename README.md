@@ -46,7 +46,19 @@ This repository is based on the original <a href="https://github.com/MGX3D/EspDR
 If you do not see the pads, open the case. It may need to cut the case to make room for the wires or the connector.
 <br />
 <br />
-<img src="https://raw.githubusercontent.com/sorinbotirla/esp32-digital-caliper/refs/heads/main/images/20250730_095303.jpg" />
+<table>
+  <tr>
+    <td width="33%">
+      <img src="https://raw.githubusercontent.com/sorinbotirla/esp32-digital-caliper/refs/heads/main/images/20250730_120254.jpg" />
+    </td>
+    <td width="33%">
+      <img src="https://raw.githubusercontent.com/sorinbotirla/esp32-digital-caliper/refs/heads/main/images/20250730_120238.jpg" />
+    </td>
+    <td width="33%">
+      <img src="https://raw.githubusercontent.com/sorinbotirla/esp32-digital-caliper/refs/heads/main/images/20250730_095303.jpg" />
+    </td>
+  </tr>
+</table>
 <br />
 <br />
 You can solder thin wires on these pads or you can solder a 4 pin connector as I did.<br /><br />
