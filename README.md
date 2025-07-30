@@ -67,9 +67,9 @@ In the .ino file change the <strong>YOUR_WIFI_SSID</strong> and <strong>YOUR_WIF
 The <strong>client_mode</strong> can be either 0 or 1. 
 <br />
 <br />
-0 is for AP mode (ESP32 will start a WIFI hotspot), 
+0 is for AP mode (ESP32 will start it's own WIFI hotspot), 
 <br />
-1 is for Client mode (ESP32 will connect to a wifi nettork you already own).
+1 is for Client mode (ESP32 will connect to a wifi network you already own).
 <br /><br />
 Once you connected to the Wifi, you can check the local IP in the serial terminal, and open it in the browser. You will get a simple webpage with the digital values readout.
 <br /><br />
