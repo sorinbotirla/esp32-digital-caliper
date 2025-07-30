@@ -79,7 +79,7 @@ Once you connected to the Wifi, you can check the local IP in the serial termina
       <img src="https://raw.githubusercontent.com/sorinbotirla/esp32-digital-caliper/refs/heads/main/images/20250730_085548.jpg" />
     </td>
     <td width="50%">
-      <img src="https://raw.githubusercontent.com/sorinbotirla/esp32-digital-caliper/refs/heads/main/images/Screenshot%202025-07-30%20085654.jpg" />
+      <img src="https://raw.githubusercontent.com/sorinbotirla/esp32-digital-caliper/refs/heads/main/images/web-app.jpg" />
     </td>
   </tr>
 </table>
