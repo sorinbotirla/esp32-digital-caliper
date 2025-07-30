@@ -73,3 +73,18 @@ NetworkClientSecure at version 3.0.4
 0 is for AP mode (ESP32 will start a WIFI hotspot), 
 <br />
 1 is for Client mode (ESP32 will connect to a wifi nettork you already own).
+<br /><br />
+Once you connected to the Wifi, you can check the local IP in the serial terminal, and open it in the browser. You will get a simple webpage with the digital values readout.
+<br /><br />
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/sorinbotirla/esp32-digital-caliper/refs/heads/main/images/20250730_085548.jpg" />
+    </td>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/sorinbotirla/esp32-digital-caliper/refs/heads/main/images/Screenshot%202025-07-30%20085654.jpg" />
+    </td>
+  </tr>
+</table>
+
+
