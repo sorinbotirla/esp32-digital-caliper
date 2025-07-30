@@ -5,7 +5,7 @@ Works with any ESP32 (with Wifi). I have used ESP32 Super mini for the size conv
 This repository is based on the original <a href="https://github.com/MGX3D/EspDRO" target="_blank">EspDRO made by MGX3D</a><br />
 
 <h2>Pinout</h2>
-<p>On the digital caliper pcb are 4 pins. You need to connect them to the ESP32 as following</p>
+<p>On the digital caliper pcb there are 4 pins. You need to connect them to the ESP32 as following</p>
 <br />
 <table>
   <tr>
